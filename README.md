@@ -15,15 +15,18 @@ Dive into the detailed analysis, methodology, and narrative behind this benchmar
 ### Platform
 
 **English Article**  
-**Artículo en Español**
-
 ### Substack  
-[Link Coming Soon]  
-[Enlace Próximamente]
+https://albertocardenas.substack.com/p/is-spark-overkill-how-we-cut-our
 
 ### Medium  
-[Link Coming Soon]  
-[Enlace Próximamente]
+https://medium.com/@albertocardenascom/is-spark-overkill-how-we-cut-our-etl-time-by-70-by-switching-engines-fbd57bbd77ab?postPublishedType=initial
+
+**Artículo en Español**
+### Substack  
+https://albertocardenas.substack.com/p/es-spark-overkill-como-redujimos
+
+### Medium  
+http://medium.com/@albertocardenascom/es-spark-overkill-c%C3%B3mo-redujimos-nuestros-tiempos-de-etl-en-un-70-cambiando-de-motor-163a96aa378a?postPublishedType=initial
 
 ---
 
