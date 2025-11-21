@@ -1,4 +1,4 @@
-# ⚡ Aether Benchmark: Spark vs. Polars (Local ETL)
+# Aether Benchmark: Spark vs. Polars (Local ETL)
 
 **"Is Spark overkill for local data processing? Can Rust beat the JVM on a standard laptop?"**
 
