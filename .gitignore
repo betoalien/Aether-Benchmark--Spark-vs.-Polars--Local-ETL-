@@ -1,0 +1,31 @@
+--- Entornos Virtuales (No subir nunca) ---
+
+venv/
+env/
+.env
+
+--- Datos (Demasiado pesados para GitHub) ---
+
+Ventas_Mexico/
+data_lake_challenge_norte/
+*.csv
+*.parquet
+
+Excluir carpetas de warehouse generadas por los scripts
+
+SPARK_WAREHOUSE/
+POLARS_WAREHOUSE/
+spark-warehouse/
+
+--- Archivos de Sistema y Caché ---
+
+pycache/
+*.pyc
+.DS_Store
+Thumbs.db
+
+--- IDEs y Logs ---
+
+.vscode/
+.idea/
+*.log
